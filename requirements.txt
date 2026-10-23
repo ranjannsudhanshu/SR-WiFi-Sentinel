@@ -1,0 +1,4 @@
+
+# SR WiFi Sentinel
+# Uses Python standard library: tkinter, csv, subprocess, threading.
+# No third-party Python packages required.
